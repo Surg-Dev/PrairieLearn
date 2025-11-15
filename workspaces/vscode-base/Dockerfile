@@ -1,6 +1,6 @@
 # noble is the codename for Ubuntu 24.04 LTS
 FROM codercom/code-server:4.105.1-noble
-ARG CACHEBUST=2025-10-15-14-17-30
+ARG CACHEBUST=2025-11-15-14-07-34
 
 # On PL, we want to standardize on using 1001:1001 for the user. We change the
 # "coder" account's UID and GID here so that fixuid has no work to do later.
