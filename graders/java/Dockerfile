@@ -1,5 +1,5 @@
 FROM ubuntu:24.04
-ARG CACHEBUST=2025-10-15-14-17-30
+ARG CACHEBUST=2025-12-15-14-14-40
 
 LABEL maintainer="jonatan@yorku.ca"
 
